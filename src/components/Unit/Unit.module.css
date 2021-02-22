@@ -1,0 +1,8 @@
+.Unit {
+    display: inline-block;
+}
+
+.Highlighed {
+    border: 1px solid #ccc;
+    background-color: #eee;
+}
